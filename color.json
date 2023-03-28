@@ -210,42 +210,42 @@
         }
       }
     },
-    "night": {
+    "Night": {
       "Black": {
-        "16": {
-          "value": "#333333",
-          "type": "color"
-        },
-        "26": {
-          "value": "#525252",
-          "type": "color"
-        },
-        "40": {
-          "value": "#757575",
-          "type": "color"
-        },
-        "70": {
-          "value": "#B3B3B3",
-          "type": "color"
-        },
         "100": {
-          "value": "#FAFAFA",
-          "type": "color"
-        },
-        "00": {
           "value": "#111111",
           "type": "color"
         },
-        "02": {
+        "200": {
           "value": "#171717",
           "type": "color"
         },
-        "04": {
+        "300": {
           "value": "#1A1A1A",
           "type": "color"
         },
-        "08": {
+        "400": {
           "value": "#242424",
+          "type": "color"
+        },
+        "500": {
+          "value": "#333333",
+          "type": "color"
+        },
+        "600": {
+          "value": "#525252",
+          "type": "color"
+        },
+        "700": {
+          "value": "#757575",
+          "type": "color"
+        },
+        "800": {
+          "value": "#B3B3B3",
+          "type": "color"
+        },
+        "900": {
+          "value": "#FAFAFA",
           "type": "color"
         }
       },
@@ -421,10 +421,120 @@
       }
     }
   },
+  "Day": {
+    "Line": {
+      "divider_textfield": {
+        "value": "{Day.Black.500}",
+        "type": "color"
+      },
+      "divider_standard": {
+        "value": "{Day.Black.400}",
+        "type": "color"
+      },
+      "divider_light": {
+        "value": "{Day.Black.300}",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "text_link": {
+        "value": "{Day.Blue.500}",
+        "type": "color"
+      },
+      "text_primary": {
+        "value": "{Day.Black.900}",
+        "type": "color"
+      },
+      "text_secondary_01": {
+        "value": "{Day.Black.700}",
+        "type": "color"
+      },
+      "text_secondary_02": {
+        "value": "{Day.Black.600}",
+        "type": "color"
+      },
+      "text_white": {
+        "value": "{Day.Black.100}",
+        "type": "color"
+      }
+    },
+    "Background": {
+      "bg_fullpage_lv1": {
+        "value": "{Day.Black.100}",
+        "type": "color"
+      }
+    },
+    "Preference": {
+      "green_bg": {
+        "value": "{Day.Green.500}",
+        "type": "color"
+      },
+      "red_bg": {
+        "value": "{Day.Red.500}",
+        "type": "color"
+      }
+    }
+  },
+  "NIght": {
+    "Line": {
+      "divider_textfield": {
+        "value": "{Night.Black.500}",
+        "type": "color"
+      },
+      "divider_standard": {
+        "value": "{Night.Black.400}",
+        "type": "color"
+      },
+      "divider_light": {
+        "value": "{Night.Black.300}",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "text_link": {
+        "value": "{Night.Blue.500}",
+        "type": "color"
+      },
+      "text_primary": {
+        "value": "{Night.Black.900}",
+        "type": "color"
+      },
+      "text_secondary_01": {
+        "value": "{Night.Black.700}",
+        "type": "color"
+      },
+      "text_secondary_02": {
+        "value": "{Night.Black.600}",
+        "type": "color"
+      },
+      "text_white": {
+        "value": "{Night.Black.100}",
+        "type": "color"
+      }
+    },
+    "Background": {
+      "bg_fullpage_lv1": {
+        "value": "{Night.Black.100}",
+        "type": "color"
+      }
+    },
+    "Preference": {
+      "green_bg": {
+        "value": "{Night.Green.500}",
+        "type": "color"
+      },
+      "red_bg": {
+        "value": "{Night.Red.500}",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "Day",
+      "NIght"
     ]
   }
 }

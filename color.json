@@ -366,7 +366,7 @@
     },
     "Text": {
       "text_link": {
-        "value": "{Day.Blue.500}",
+        "value": "{Global.Blue.500}",
         "type": "color"
       },
       "text_primary": {
@@ -392,13 +392,31 @@
         "type": "color"
       }
     },
+    "Feedback": {
+      "feedback_normal": {
+        "value": "{Global.Blue.400}",
+        "type": "color"
+      },
+      "feedback_success": {
+        "value": "{Global.Green.500}",
+        "type": "color"
+      },
+      "feedback_warning": {
+        "value": "{Global.Orange.500}",
+        "type": "color"
+      },
+      "feedback_error": {
+        "value": "{Global.Red.500}",
+        "type": "color"
+      }
+    },
     "Preference": {
       "green_bg": {
-        "value": "{Day.Green.500}",
+        "value": "{Global.Green.500}",
         "type": "color"
       },
       "red_bg": {
-        "value": "{Day.Red.500}",
+        "value": "{Global.Red.500}",
         "type": "color"
       }
     }

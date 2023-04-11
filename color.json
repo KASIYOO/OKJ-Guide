@@ -350,6 +350,12 @@
     }
   },
   "Day": {
+    "brand": {
+      "brand_standard": {
+        "value": "{Global.Blue.500}",
+        "type": "color"
+      }
+    },
     "Line": {
       "line_textfield": {
         "value": "{Day.Black.500}",

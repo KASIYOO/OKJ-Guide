@@ -447,6 +447,94 @@
         "value": "{Global.Black opacity.700}",
         "type": "color"
       }
+    },
+    "Button": {
+      "Filled Accent": {
+        "btn_filled_accent_default_bk": {
+          "value": "{Global.Blue.500}",
+          "type": "color"
+        },
+        "btn_filled_accent_press_bk": {
+          "value": "{Global.Blue.600}",
+          "type": "color"
+        },
+        "btn_filled_accent_disabled_bk": {
+          "value": "{Day.Black.400}",
+          "type": "color"
+        }
+      },
+      "Outlined Accent": {
+        "btn_outlined_accent_default_border": {
+          "value": "{Global.Blue.300}",
+          "type": "color"
+        },
+        "btn_outlined_accent_press_bk": {
+          "value": "{Global.Blue.100}",
+          "type": "color"
+        },
+        "btn_outlined_accent_disabled_border": {
+          "value": "{Day.Black.400}",
+          "type": "color"
+        }
+      },
+      "Text Accent": {
+        "btn_text_accent_press_bk": {
+          "value": "{Global.Blue.100}",
+          "type": "color"
+        }
+      },
+      "Outlined Neutral": {
+        "btn_outlined_neutral_default_border": {
+          "value": "{Day.Black.500}",
+          "type": "color"
+        },
+        "btn_outlined_neutral_press_bk": {
+          "value": "{Day.Black.300}",
+          "type": "color"
+        },
+        "btn_outlined_neutral_press_border": {
+          "value": "{Day.Black.500}",
+          "type": "color"
+        },
+        "btn_outlined_neutral_disabled_border": {
+          "value": "{Day.Black.400}",
+          "type": "color"
+        }
+      },
+      "Text Neutral": {
+        "btn_text_accent_press_bk": {
+          "value": "{Day.Black.300}",
+          "type": "color"
+        }
+      },
+      "Filled Positive": {
+        "btn_filled_positive_default_bk": {
+          "value": "{Global.Green.500}",
+          "type": "color"
+        },
+        "btn_filled_positive_press_bk": {
+          "value": "{Global.Green.600}",
+          "type": "color"
+        },
+        "btn_filled_positive_disabled_bk": {
+          "value": "{Day.Black.400}",
+          "type": "color"
+        }
+      },
+      "Filled Critical": {
+        "btn_filled_critical_default_bk": {
+          "value": "{Global.Red.500}",
+          "type": "color"
+        },
+        "btn_filled_critical_press_bk": {
+          "value": "{Global.Red.600}",
+          "type": "color"
+        },
+        "btn_filled_critical_disabled_bk": {
+          "value": "{Day.Black.400}",
+          "type": "color"
+        }
+      }
     }
   },
   "NIght": {

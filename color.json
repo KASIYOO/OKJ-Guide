@@ -283,7 +283,7 @@
           "type": "color"
         },
         "400": {
-          "value": "#E6E6E6",
+          "value": "#EBEBEB",
           "type": "color"
         },
         "500": {
@@ -299,7 +299,7 @@
           "type": "color"
         },
         "800": {
-          "value": "#4D4D4D",
+          "value": "#242424",
           "type": "color"
         },
         "900": {
@@ -405,23 +405,23 @@
       "Background": {
         "lv1": {
           "value": "{Day.Black.100}",
-          "type": "color"
+          "type": "color",
+          "description": "页面的全局背景颜色"
         },
         "lv2": {
-          "value": "{Day.Black.200}",
-          "type": "color"
+          "value": "{Day.Black.300}",
+          "type": "color",
+          "description": "搜索框、卡片背景色"
         },
         "lv3": {
-          "value": "{Day.Black.300}",
-          "type": "color"
-        },
-        "lv4": {
-          "value": "{Day.Black.500}",
-          "type": "color"
+          "value": "{Day.Black.800}",
+          "type": "color",
+          "description": "tips、toast背景色"
         },
         "dialog": {
           "value": "{Day.Black.100}",
-          "type": "color"
+          "type": "color",
+          "description": "弹窗背景色"
         }
       },
       "Feedback": {
@@ -646,7 +646,7 @@
           "value": "{Night.Black.400}",
           "type": "color"
         },
-        "lv4": {
+        "dialog": {
           "value": "{Night.Black.400}",
           "type": "color"
         }

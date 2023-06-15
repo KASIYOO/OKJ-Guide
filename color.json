@@ -299,8 +299,9 @@
           "type": "color"
         },
         "800": {
-          "value": "#242424",
-          "type": "color"
+          "value": "#262626",
+          "type": "color",
+          "description": "toast等深浅通用背景色"
         },
         "900": {
           "value": "#000000",
@@ -319,12 +320,14 @@
           "type": "color"
         },
         "300": {
-          "value": "#1A1A1A",
-          "type": "color"
+          "value": "#1F1F1F",
+          "type": "color",
+          "description": "浅色分割线&块、搜索框&卡片背景色"
         },
         "400": {
-          "value": "#242424",
-          "type": "color"
+          "value": "#262626",
+          "type": "color",
+          "description": "标准分割线、列表按下态、弹窗背景、toast背景"
         },
         "500": {
           "value": "#333333",

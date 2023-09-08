@@ -490,6 +490,11 @@
         "white": {
           "value": "{Day.Black.100}",
           "type": "color"
+        },
+        "yellow": {
+          "value": "{Global.Yellow.500}",
+          "type": "color",
+          "description": "收藏按钮"
         }
       },
       "Button": {
@@ -716,6 +721,11 @@
         "white": {
           "value": "{Day.Black.100}",
           "type": "color"
+        },
+        "yellow": {
+          "value": "{Global.Yellow.500}",
+          "type": "color",
+          "description": "收藏按钮"
         }
       },
       "Button": {

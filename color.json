@@ -354,7 +354,191 @@
     "New": {
       "Neutral": {
         "0": {
-          "value": "#",
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "10": {
+          "value": "#fafafa",
+          "type": "color"
+        },
+        "20": {
+          "value": "#ebebeb",
+          "type": "color"
+        },
+        "30": {
+          "value": "#e3e3e3",
+          "type": "color"
+        },
+        "40": {
+          "value": "#bdbdbd",
+          "type": "color"
+        },
+        "50": {
+          "value": "#b4b4b4",
+          "type": "color"
+        },
+        "60": {
+          "value": "#969696",
+          "type": "color"
+        },
+        "70": {
+          "value": "#909090",
+          "type": "color"
+        },
+        "80": {
+          "value": "#6e6e6e",
+          "type": "color"
+        },
+        "90": {
+          "value": "#6d6d6d",
+          "type": "color"
+        },
+        "100": {
+          "value": "#454545",
+          "type": "color"
+        },
+        "110": {
+          "value": "#414141",
+          "type": "color"
+        },
+        "120": {
+          "value": "#383838",
+          "type": "color"
+        },
+        "130": {
+          "value": "#363636",
+          "type": "color"
+        },
+        "140": {
+          "value": "#121212",
+          "type": "color"
+        },
+        "150": {
+          "value": "#0d0d0d",
+          "type": "color"
+        },
+        "160": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "Tangerine": {
+        "5": {
+          "value": "#FFF4E0",
+          "type": "color"
+        },
+        "10": {
+          "value": "#FFE3AD",
+          "type": "color"
+        },
+        "20": {
+          "value": "#FFC452",
+          "type": "color"
+        },
+        "30": {
+          "value": "#FFA900",
+          "type": "color"
+        },
+        "40": {
+          "value": "#DB8F00",
+          "type": "color"
+        },
+        "50": {
+          "value": "#A06900",
+          "type": "color"
+        },
+        "60": {
+          "value": "#664300",
+          "type": "color"
+        }
+      },
+      "Neon Lime": {
+        "5": {
+          "value": "#EEFFCB",
+          "type": "color"
+        },
+        "10": {
+          "value": "#D5FF7D",
+          "type": "color"
+        },
+        "20": {
+          "value": "#BCFF2F",
+          "type": "color"
+        },
+        "30": {
+          "value": "#9FE212",
+          "type": "color"
+        },
+        "40": {
+          "value": "#7EBA00",
+          "type": "color"
+        },
+        "50": {
+          "value": "#568000",
+          "type": "color"
+        },
+        "60": {
+          "value": "#3D5C00",
+          "type": "color"
+        }
+      },
+      "Green2": {
+        "5": {
+          "value": "#F2FAE1",
+          "type": "color"
+        },
+        "10": {
+          "value": "#D6E8B0",
+          "type": "color"
+        },
+        "20": {
+          "value": "#A5CC52",
+          "type": "color"
+        },
+        "30": {
+          "value": "#74AB00",
+          "type": "color"
+        },
+        "40": {
+          "value": "#568000",
+          "type": "color"
+        },
+        "50": {
+          "value": "#334D00",
+          "type": "color"
+        },
+        "60": {
+          "value": "#1A2600",
+          "type": "color"
+        }
+      },
+      "Red2": {
+        "5": {
+          "value": "#FFF0F5",
+          "type": "color"
+        },
+        "10": {
+          "value": "#FFCCDD",
+          "type": "color"
+        },
+        "20": {
+          "value": "#F75E91",
+          "type": "color"
+        },
+        "30": {
+          "value": "#E61E61",
+          "type": "color"
+        },
+        "40": {
+          "value": "#B20E45",
+          "type": "color"
+        },
+        "50": {
+          "value": "#61102B",
+          "type": "color"
+        },
+        "60": {
+          "value": "#26040F",
           "type": "color"
         }
       }
@@ -364,13 +548,13 @@
     "day": {
       "brand": {
         "standard": {
-          "value": "{Global.Blue.500}",
+          "value": "#BCFF2F",
           "type": "color"
         }
       },
       "Line": {
         "textfield": {
-          "value": "{Day.Black.500}",
+          "value": "#BDBDBD",
           "type": "color"
         },
         "standard": {
@@ -378,13 +562,17 @@
           "type": "color"
         },
         "light": {
-          "value": "{Day.Black.300}",
+          "value": "#ebebeb",
           "type": "color"
         },
         "selected": {
           "value": "{Day.Black.900}",
           "type": "color",
           "description": "tab被选中"
+        },
+        "contrast": {
+          "value": "#FAFAFA",
+          "type": "color"
         }
       },
       "Text": {
@@ -397,7 +585,7 @@
           "type": "color"
         },
         "secondary_lv1": {
-          "value": "{Day.Black.700}",
+          "value": "#909090",
           "type": "color"
         },
         "secondary_lv2": {
@@ -411,6 +599,18 @@
         "white": {
           "value": "{Day.Black.100}",
           "type": "color"
+        },
+        "secondary": {
+          "value": "#383838",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#5B5B5B",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "#FFFFFF",
+          "type": "color"
         }
       },
       "Background": {
@@ -420,12 +620,12 @@
           "description": "页面的全局背景颜色"
         },
         "lv2": {
-          "value": "{Day.Black.300}",
+          "value": "#FAFAFA",
           "type": "color",
           "description": "搜索框、卡片背景色"
         },
         "lv3": {
-          "value": "{Day.Black.800}",
+          "value": "#0D0D0D",
           "type": "color",
           "description": "tips、toast背景色"
         },
@@ -433,37 +633,41 @@
           "value": "{Day.Black.100}",
           "type": "color",
           "description": "弹窗背景色"
+        },
+        "contrast": {
+          "value": "#414141",
+          "type": "color"
         }
       },
       "Feedback": {
         "normal": {
-          "value": "{Global.Blue.400}",
+          "value": "#000000",
           "type": "color"
         },
         "success": {
-          "value": "{Global.Green.500}",
+          "value": "#74AB00",
           "type": "color"
         },
         "warning": {
-          "value": "{Global.Orange.500}",
+          "value": "#FFA900",
           "type": "color"
         },
         "error": {
-          "value": "{Global.Red.500}",
+          "value": "#E61E61",
           "type": "color"
         }
       },
       "Preference": {
         "green_bg": {
-          "value": "{Global.Green.500}",
+          "value": "#74AB00",
           "type": "color"
         },
         "red_bg": {
-          "value": "{Global.Red.500}",
+          "value": "#E61E61",
           "type": "color"
         },
         "gray_bg": {
-          "value": "{Day.Black.700}",
+          "value": "#6E6E6E",
           "type": "color"
         }
       },
@@ -601,25 +805,29 @@
     "night": {
       "brand": {
         "standard": {
-          "value": "{Global.Blue.500}",
+          "value": "#BCFF2F",
           "type": "color"
         }
       },
       "Line": {
         "textfield": {
-          "value": "{Night.Black.500}",
+          "value": "#454545",
           "type": "color"
         },
         "standard": {
-          "value": "{Night.Black.400}",
+          "value": "#414141",
           "type": "color"
         },
         "light": {
-          "value": "{Night.Black.300}",
+          "value": "#363636",
           "type": "color"
         },
         "selected": {
           "value": "{Night.Black.900}",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "#000000",
           "type": "color"
         }
       },
@@ -629,73 +837,89 @@
           "type": "color"
         },
         "primary": {
-          "value": "{Night.Black.900}",
+          "value": "#FFFFFF",
           "type": "color"
         },
         "secondary_lv1": {
-          "value": "{Night.Black.700}",
+          "value": "#969696",
           "type": "color"
         },
         "secondary_lv2": {
-          "value": "{Night.Black.600}",
+          "value": "#6D6D6D",
           "type": "color"
         },
         "secondary_lv3": {
-          "value": "{Night.Black.500}",
+          "value": "#333333",
           "type": "color"
         },
         "white": {
           "value": "{Day.Black.100}",
           "type": "color"
+        },
+        "secondary": {
+          "value": "#e3e3e3",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#b4b4b4",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "#121212",
+          "type": "color"
         }
       },
       "Background": {
         "lv1": {
-          "value": "{Night.Black.100}",
+          "value": "#000000",
           "type": "color"
         },
         "lv2": {
-          "value": "{Night.Black.300}",
+          "value": "#121212",
           "type": "color"
         },
         "lv3": {
-          "value": "{Night.Black.400}",
+          "value": "#414141",
           "type": "color"
         },
         "dialog": {
           "value": "{Night.Black.400}",
           "type": "color"
+        },
+        "contrast": {
+          "value": "#fafafa",
+          "type": "color"
         }
       },
       "Feedback": {
         "normal": {
-          "value": "{Global.Blue.500}",
+          "value": "#ffffff",
           "type": "color"
         },
         "success": {
-          "value": "{Global.Green.600}",
+          "value": "#74AB00",
           "type": "color"
         },
         "warning": {
-          "value": "{Global.Orange.600}",
+          "value": "#FFA900",
           "type": "color"
         },
         "error": {
-          "value": "{Global.Red.600}",
+          "value": "#E61E61",
           "type": "color"
         }
       },
       "Preference": {
         "green_bg": {
-          "value": "{Global.Green.600}",
+          "value": "#74AB00",
           "type": "color"
         },
         "red_bg": {
-          "value": "{Global.Red.600}",
+          "value": "#E61E61",
           "type": "color"
         },
         "gray_bg": {
-          "value": "{Night.Black.600}",
+          "value": "B4B4B4",
           "type": "color"
         }
       },

@@ -350,6 +350,14 @@
           "type": "color"
         }
       }
+    },
+    "New": {
+      "Neutral": {
+        "0": {
+          "value": "#",
+          "type": "color"
+        }
+      }
     }
   },
   "Day_frist": {

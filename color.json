@@ -577,7 +577,7 @@
       },
       "Text": {
         "link": {
-          "value": "{Global.Blue.500}",
+          "value": "#74AB00",
           "type": "color"
         },
         "primary": {
@@ -833,7 +833,7 @@
       },
       "Text": {
         "link": {
-          "value": "{Global.Blue.500}",
+          "value": "#74AB00",
           "type": "color"
         },
         "primary": {

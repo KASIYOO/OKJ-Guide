@@ -548,6 +548,10 @@
     "day": {
       "brand": {
         "standard": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "primary": {
           "value": "#BCFF2F",
           "type": "color"
         }
@@ -805,6 +809,10 @@
     "night": {
       "brand": {
         "standard": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "primary": {
           "value": "#BCFF2F",
           "type": "color"
         }

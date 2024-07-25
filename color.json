@@ -393,6 +393,10 @@
           "value": "#6d6d6d",
           "type": "color"
         },
+        "95": {
+          "value": "#5B5B5B",
+          "type": "color"
+        },
         "100": {
           "value": "#454545",
           "type": "color"
@@ -548,10 +552,6 @@
     "day": {
       "brand": {
         "standard": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "primary": {
           "value": "#BCFF2F",
           "type": "color"
         }
@@ -720,7 +720,7 @@
             "type": "color"
           },
           "press_bk": {
-            "value": "#000000",
+            "value": "#5B5B5B",
             "type": "color"
           },
           "disabled_bk": {
@@ -738,7 +738,7 @@
             "type": "color"
           },
           "press_bk": {
-            "value": "#000000",
+            "value": "#F5F5F5",
             "type": "color"
           },
           "disabled_border": {
@@ -809,10 +809,6 @@
     "night": {
       "brand": {
         "standard": {
-          "value": "#FFFFFF",
-          "type": "color"
-        },
-        "primary": {
           "value": "#BCFF2F",
           "type": "color"
         }
@@ -975,7 +971,7 @@
             "type": "color"
           },
           "press_bk": {
-            "value": "#FFFFFF",
+            "value": "#BDBDBD",
             "type": "color"
           },
           "disabled_bk": {
@@ -993,7 +989,7 @@
             "type": "color"
           },
           "press_bk": {
-            "value": "#FFFFFF",
+            "value": "#262626",
             "type": "color"
           },
           "disabled_border": {
@@ -1017,7 +1013,7 @@
             "type": "color"
           },
           "press_bk": {
-            "value": "{Night.Black.300}",
+            "value": "#262626",
             "type": "color"
           },
           "disabled_border": {
@@ -1027,7 +1023,7 @@
         },
         "Text Neutral": {
           "press_bk": {
-            "value": "#1A1A1A",
+            "value": "#262626",
             "type": "color"
           }
         },

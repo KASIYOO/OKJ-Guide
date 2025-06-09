@@ -959,11 +959,11 @@
           "type": "color"
         },
         "gray_bg": {
-          "value": "{New.Neutral.80}",
+          "value": "{New.Neutral.130}",
           "type": "color"
         },
         "gray_text": {
-          "value": "{New.Neutral.130}",
+          "value": "{New.Neutral.80}",
           "type": "color"
         }
       },

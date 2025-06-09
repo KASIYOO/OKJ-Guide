@@ -358,7 +358,7 @@
           "type": "color"
         },
         "10": {
-          "value": "#fafafa",
+          "value": "#f3f3f3",
           "type": "color"
         },
         "20": {
@@ -414,7 +414,7 @@
           "type": "color"
         },
         "140": {
-          "value": "#121212",
+          "value": "#1a1a1a",
           "type": "color"
         },
         "150": {
@@ -624,7 +624,7 @@
           "description": "页面的全局背景颜色"
         },
         "lv2": {
-          "value": "#FAFAFA",
+          "value": "{New.Neutral.10}",
           "type": "color",
           "description": "搜索框、卡片背景色"
         },
@@ -666,12 +666,32 @@
           "value": "#74AB00",
           "type": "color"
         },
+        "green_lr": {
+          "value": "{New.Green2.10}",
+          "type": "color"
+        },
+        "green_text": {
+          "value": "{New.Green2.40}",
+          "type": "color"
+        },
         "red_bg": {
           "value": "#E61E61",
           "type": "color"
         },
+        "red_lr": {
+          "value": "{New.Red2.10}",
+          "type": "color"
+        },
+        "red_text": {
+          "value": "#E61E61",
+          "type": "color"
+        },
         "gray_bg": {
-          "value": "#6E6E6E",
+          "value": "{New.Neutral.20}",
+          "type": "color"
+        },
+        "gray_text": {
+          "value": "{New.Neutral.90}",
           "type": "color"
         }
       },
@@ -879,7 +899,7 @@
           "type": "color"
         },
         "lv2": {
-          "value": "#121212",
+          "value": "{New.Neutral.140}",
           "type": "color"
         },
         "lv3": {
@@ -918,12 +938,32 @@
           "value": "#74AB00",
           "type": "color"
         },
+        "green_lr": {
+          "value": "{New.Green2.60}",
+          "type": "color"
+        },
+        "green_text": {
+          "value": "{New.Green2.20}",
+          "type": "color"
+        },
         "red_bg": {
           "value": "#E61E61",
           "type": "color"
         },
+        "red_lr": {
+          "value": "{New.Red2.60}",
+          "type": "color"
+        },
+        "red_text": {
+          "value": "{New.Red2.20}",
+          "type": "color"
+        },
         "gray_bg": {
-          "value": "B4B4B4",
+          "value": "{New.Neutral.80}",
+          "type": "color"
+        },
+        "gray_text": {
+          "value": "{New.Neutral.130}",
           "type": "color"
         }
       },

@@ -666,7 +666,7 @@
           "value": "#74AB00",
           "type": "color"
         },
-        "green_lr": {
+        "green_bg_lr": {
           "value": "{New.Green2.10}",
           "type": "color"
         },
@@ -678,7 +678,7 @@
           "value": "#E61E61",
           "type": "color"
         },
-        "red_lr": {
+        "red_bg_lr": {
           "value": "{New.Red2.10}",
           "type": "color"
         },
@@ -938,7 +938,7 @@
           "value": "#74AB00",
           "type": "color"
         },
-        "green_lr": {
+        "green_bg_lr": {
           "value": "{New.Green2.60}",
           "type": "color"
         },
@@ -950,7 +950,7 @@
           "value": "#E61E61",
           "type": "color"
         },
-        "red_lr": {
+        "red_bg_lr": {
           "value": "{New.Red2.60}",
           "type": "color"
         },

@@ -552,7 +552,7 @@
     "day": {
       "brand": {
         "standard": {
-          "value": "#BCFF2F",
+          "value": "{New.Green2.40}",
           "type": "color"
         }
       },
@@ -581,7 +581,7 @@
       },
       "Text": {
         "link": {
-          "value": "#74AB00",
+          "value": "{New.Green2.40}",
           "type": "color"
         },
         "primary": {

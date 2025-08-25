@@ -552,6 +552,10 @@
     "day": {
       "brand": {
         "standard": {
+          "value": "{New.Neutral.160}",
+          "type": "color"
+        },
+        "primary": {
           "value": "{New.Green2.40}",
           "type": "color"
         }
@@ -829,7 +833,11 @@
     "night": {
       "brand": {
         "standard": {
-          "value": "#BCFF2F",
+          "value": "{New.Neutral.0}",
+          "type": "color"
+        },
+        "primary": {
+          "value": "{New.Neon Lime.20}",
           "type": "color"
         }
       },
